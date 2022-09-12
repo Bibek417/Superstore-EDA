@@ -10,6 +10,8 @@ Analysing Superstore dataset using EDA to find out the weak areas where we have 
 * python(Jupiter Notebook)
 #### Libraries used 
 * NUMPY, PANDAS, MATPLOTLIB, SEABORN, PLOTLY 
+#### Connect with me 
+linkdin - https://www.linkedin.com/in/bibek-anand/
 
 
 
