@@ -12,6 +12,7 @@ Analysing Superstore dataset using EDA to find out the weak areas where we have 
 * NUMPY, PANDAS, MATPLOTLIB, SEABORN, PLOTLY 
 #### Connect with me 
 linkdin - https://www.linkedin.com/in/bibek-anand/
+youtube vidio link -> https://youtu.be/q4eDDo_k4e4
 
 
 
